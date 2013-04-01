@@ -1,5 +1,7 @@
 # Gametrailers iPad viewer
 
+**Note: This has been broken since the last gametrailers.com redesign. Haven't got round to fixing it...**
+
 ## Demo
 
 [http://gt.lensco.be/](http://gt.lensco.be/)
