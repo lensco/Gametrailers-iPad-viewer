@@ -2,10 +2,6 @@
 
 **Note: This has been broken since the last gametrailers.com redesign. Haven't got round to fixing it...**
 
-## Demo
-
-[http://gt.lensco.be/](http://gt.lensco.be/)
-
 ## ¿Que?
 
 I like watching some game trailers on the iPad at lunch, but the gametrailers.com website rather sucks. So I hacked this thing together: some very dirty PHP/JS/HTML that scrapes GT and only shows the good/relevant parts, with direct links to the HD videos.
